@@ -8,7 +8,7 @@
 #           ec2 instance type: instance type of ec2 for transcoding
 #           transcoding bitrate: bitrate for transcoding, e.g. 800k, 2M
 #
-# Sample:   source 265to265_benchmark_cpu.sh 5 C6g.4x 2.5M
+# Sample:   source 265to265_benchmark_cpu.sh 3 C7g.4x 8M
 #
 # Please make sure INPUT_BUCKET, OUTPUT_BUCKET and INPUT_FILE are set properly
 #

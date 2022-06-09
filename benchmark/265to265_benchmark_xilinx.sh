@@ -10,7 +10,7 @@
 #           quality level: default/objective/subjective, H.264 and H.265 codecs on the Xilinx U30 cards can be tuned to 
 #                          improve either objective visual quality (to optimize VMAF scores) or subjective visual quality.
 #
-# Sample:   source 265to265_benchmark_xilinx.sh 16 VT1.3x 2.5M objective
+# Sample:   source 265to265_benchmark_xilinx.sh 2 VT1.3x 8M objective
 #
 # Please make sure INPUT_BUCKET, OUTPUT_BUCKET and INPUT_FILE are set properly
 #
